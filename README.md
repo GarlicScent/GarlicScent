@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... javascript, nodejs from nomadcoders.co
 - 📫 How to reach me ...<br>
   blog: https://blog.naver.com/dongzai <br>
-  email: dongzai@naver.com
+  e-mail: dongzai@naver.com
 
 <!---
 GarlicScent/GarlicScent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
