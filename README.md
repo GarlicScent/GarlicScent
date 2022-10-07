@@ -2,7 +2,6 @@
 - 👀 I’m interested in ...javascript programming
 - 🌱 I’m currently learning ... javascript, nodejs from nomadcoders.co
 - 📫 How to reach me ...<br>
-  blog: https://blog.naver.com/dongzai <br>
   e-mail: dongzai@naver.com
 
 <!---
