@@ -1,6 +1,7 @@
+# 소개
 - 👋 Hi, I’m @GarlicScent
 - 👀 I’m interested in ...javascript programming
-- 🌱 I’m currently learning ... javascript, nodejs from nomadcoders.co
+- 🌱 I’m currently learning ... javascript, nodejs from nomadcoders.co & CodingOn(spreatics)
 - 📫 How to reach me ...<br>
   e-mail: dongzai@naver.com
 
