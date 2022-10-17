@@ -1,11 +1,10 @@
-# 소개
-- 👋 Hi, I’m @GarlicScent
-- 👀 I’m interested in ...javascript programming
-- 🌱 I’m currently learning ... javascript, nodejs from nomadcoders.co & CodingOn(spreatics)
-- 📫 How to reach me ...<br>
-  e-mail: dongzai@naver.com
+![header](https://capsule-render.vercel.app/api?type=waving&color=8864FF&height=250&section=header&text=DongHyun%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-<!---
-GarlicScent/GarlicScent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://img.shields.io/badge/-HTML-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+<img src="https://img.shields.io/badge/-CSS-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+<img src="https://img.shields.io/badge/-JavaScript-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+<img src="https://img.shields.io/badge/-MySql-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+
+![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=GarlicScent&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarlicScent&layout=compact)](https://github.com/GarlicScent/github-readme-stats)
