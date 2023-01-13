@@ -19,9 +19,9 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp; 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp; 
   
-  ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=GarlicScent&show_icons=true&theme=radical)
+<!--   ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=GarlicScent&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarlicScent&layout=compact)](https://github.com/GarlicScent/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarlicScent&layout=compact)](https://github.com/GarlicScent/github-readme-stats) -->
 </div>
 
 
