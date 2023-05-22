@@ -1,10 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=DongHyun%20Kim&fontSize=60" />
   
-  ## 💁🏻 About me.
-
-  <a href="https://lopsided-honey-586.notion.site/38f8b0a7d8ac4f5ebd4703fb7c913860" target="_blank">동현's 포트폴리오</a> ,
-  <a href="https://velog.io/@garlicscent" target="_blank">블로그: 공부 기록</a>
   ## 🛠 Skills
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp; 
